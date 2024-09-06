@@ -1,0 +1,37 @@
+body {
+  background-color: #bbbbbb;
+}
+
+.box {
+  /* width: 250px; */
+  height: 250px;
+  border: 2px solid black;
+  margin-bottom: 1rem;
+  border-radius: 8%;
+}
+
+.red .box {
+  background-color: red;
+}
+
+.green .box {
+  background-color: green;
+}
+
+.yellow .box {
+  background-color: yellow;
+}
+
+.skyblue .box {
+  background-color: skyblue;
+}
+
+.orange .box {
+  background-color: orange;
+}
+
+.form-control {
+  border: 2px solid #000;
+  color: black;
+  font-weight: bold;
+}
